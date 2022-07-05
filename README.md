@@ -1,4 +1,4 @@
-# ToDo App
+# Todo App
 
 ## An app to help you keep track of your to-do list
 
